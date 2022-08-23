@@ -18,7 +18,14 @@ class Wedding extends Component {
 				</p>
 				<div className="row">
 					<div className="col">
-						<When />
+						<When
+							day={"Monday"}
+							date={"28th"}
+							month={"November"}
+							year={"2022"}
+							startTime={"10:00 AM"}
+							endTime={"6:00 PM"}
+						/>
 					</div>
 					<div className="col">
 						<Where />
