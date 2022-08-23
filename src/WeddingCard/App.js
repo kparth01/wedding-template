@@ -2,6 +2,7 @@ import "./App.css";
 import Navbar from "./Navbar";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import React from "react";
 import { useEffect } from "react";
 import Announcement from "./components/Annoucement";
 import Carousel from "./components/Carousel";

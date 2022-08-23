@@ -1,3 +1,5 @@
+import React from "react";
+
 function Where(props) {
 	return (
 		<div id="where" className="section-content" data-aos="fade-left">
