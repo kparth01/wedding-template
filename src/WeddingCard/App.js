@@ -1,19 +1,16 @@
-import React, { Component } from "react";
 import "./App.css";
 import Navbar from "./Navbar";
-//import Section from "./Section";
-//import dummyText from "./DummyText";
-import Wedding from "./components/Wedding";
-import Contact from "./components/Contact";
-import Carousel from "./components/Carousel";
-import Sangeet from "./components/Sangeet";
-import Announcement from "./components/Annoucement";
-import Reception from "./components/Reception";
-import Copyright from "./components/Copyright";
-import "./fonts/cavolini/CAVOLINI.TTF";
-import { useEffect, useState } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import { useEffect } from "react";
+import Announcement from "./components/Annoucement";
+import Carousel from "./components/Carousel";
+import Contact from "./components/Contact";
+import Copyright from "./components/Copyright";
+import Reception from "./components/Reception";
+import Sangeet from "./components/Sangeet";
+import Wedding from "./components/Wedding";
+import "./fonts/cavolini/CAVOLINI.TTF";
 
 function App() {
 	useEffect(() => {

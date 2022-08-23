@@ -1,6 +1,4 @@
-import React, { Component } from "react";
-import When from "./When";
-import Where from "./Where";
+import { Component } from "react";
 
 class Copyright extends Component {
 	render() {
