@@ -12,6 +12,7 @@ import Reception from "./components/Reception";
 import Sangeet from "./components/Sangeet";
 import Wedding from "./components/Wedding";
 import "./fonts/cavolini/CAVOLINI.TTF";
+import BasicExample from "./components/BasicExample";
 
 function App() {
 	useEffect(() => {
@@ -20,7 +21,8 @@ function App() {
 
 	return (
 		<div className="App font-face-gm">
-			<Navbar />
+			<BasicExample />
+			{/* <Navbar /> */}
 			<Carousel />
 			<br />
 			<div data-aos="zoom-in">

@@ -75,3 +75,21 @@
 	font-family: "Cavolini";
 }
 	
+
+.navbar .navbar-nav  {
+    float: none;
+    vertical-align: top;
+	text-align: center;
+	}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+	.navbar-nav .navbar-center {
+	  position: absolute;
+	  left: 50%;
+	  transform: translatex(-50%);
+	}
+  }
