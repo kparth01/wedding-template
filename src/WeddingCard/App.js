@@ -1,5 +1,4 @@
 import "./App.css";
-import Navbar from "./Navbar";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import React from "react";
@@ -12,7 +11,7 @@ import Reception from "./components/Reception";
 import Sangeet from "./components/Sangeet";
 import Wedding from "./components/Wedding";
 import "./fonts/cavolini/CAVOLINI.TTF";
-import BasicExample from "./components/BasicExample";
+import NavBar2 from "./components/NavBar2";
 
 function App() {
 	useEffect(() => {
@@ -21,7 +20,7 @@ function App() {
 
 	return (
 		<div className="App font-face-gm">
-			<BasicExample />
+			<NavBar2 />
 			{/* <Navbar /> */}
 			<Carousel />
 			<br />

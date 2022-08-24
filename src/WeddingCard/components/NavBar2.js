@@ -1,7 +1,7 @@
 import Container from "react-bootstrap/Container";
 import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
-import React, { Component } from "react";
+import React from "react";
 import logo from "../images/logo4.png";
 import { animateScroll as scroll } from "react-scroll";
 
@@ -9,7 +9,7 @@ function scrollToTop() {
 	scroll.scrollToTop();
 }
 
-function BasicExample() {
+function NavBar2() {
 	return (
 		<Navbar
 			collapseOnSelect
@@ -43,4 +43,4 @@ function BasicExample() {
 	);
 }
 
-export default BasicExample;
+export default NavBar2;
