@@ -28,7 +28,11 @@ class Wedding extends Component {
 						/>
 					</div>
 					<div className="col">
-						<Where />
+						<Where
+							addressLine1={"VIP Road, Near Gopuri Square,"}
+							addressLine2={"Nalwadi, Wardha (India) - 442001"}
+							location={"https://goo.gl/maps/ckfSjo9kHbLd3qug9"}
+						/>
 					</div>
 				</div>
 			</div>

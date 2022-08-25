@@ -12,7 +12,9 @@ class Sangeet extends Component {
 					It marks the first-event in the Indian Wedding celebrations and
 					happens before the actual marriage day. All the family and friends
 					will gather in this event and will dance in authentic Indian folk
-					songs known as "Garba Ras".{" "}
+					songs known as "Garba Ras" to mark the beginning of the marraige
+					rituals. The dance will be followed by dinner before the event
+					finishes. See you there!!!{" "}
 				</p>
 				<div className="row">
 					<div className="col">
@@ -30,6 +32,7 @@ class Sangeet extends Component {
 							addressLine1={"Mahajan Banquet, Opp Kanakia "}
 							addressLine2={"Police Station, Baverly Park, "}
 							addressLine3={"Mira Road(E), Thane (India)."}
+							location={"https://goo.gl/maps/wjLcyUxfzTy4jry9A"}
 						/>
 					</div>
 				</div>

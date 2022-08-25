@@ -32,6 +32,7 @@ class Reception extends Component {
 							addressLine1={"Maxus Banquet Hall, 3rd Floor"}
 							addressLine2={"Behind Maxus Shopping Mall, "}
 							addressLine3={"Bhayandar (W), Thane (India)."}
+							location={"https://goo.gl/maps/vZv9d15zjFCFrhh46	"}
 						/>
 					</div>
 				</div>

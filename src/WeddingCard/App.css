@@ -13,7 +13,7 @@
 
 .nav-logo {
 	height: 60px;
-	width: 60px;
+	width: 90px;
 }
 
 .nav-logo:hover {
@@ -64,10 +64,10 @@
 	text-shadow: 0 1px 2px rgba(0,0,0,.6);
   }
 
-  @font-face {
+@font-face {
 	font-family: "Cavolini";
 	src: local("Cavolini"),
-	 url("./fonts/cavolini/CAVOLINI.TTF") format("truetype");
+	url("./fonts/cavolini/CAVOLINI.TTF") format("truetype");
 	font-weight: bold;
 }
 
@@ -88,8 +88,8 @@
 
 @media (min-width: 768px) {
 	.navbar-nav .navbar-center {
-	  position: absolute;
-	  left: 50%;
-	  transform: translatex(-50%);
+		position: absolute;
+		left: 50%;
+		transform: translatex(-50%);
 	}
-  }
+}
