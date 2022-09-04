@@ -6,7 +6,7 @@ class Sangeet extends Component {
 	render() {
 		return (
 			<div id="sangeet" className="section-content">
-				<h1>Sangeet (Dandiya Ras) Ceremony</h1>
+				<h1>Sangeet Ceremony</h1>
 				<p>
 					{" "}
 					It marks the first-event in the Wedding celebrations. A combination
