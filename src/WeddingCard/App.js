@@ -40,12 +40,6 @@ function App() {
 				<Contact />
 			</div>
 			<Copyright />
-			{/* <Section
-					title="Section 1"
-					subtitle={dummyText}
-					dark={false}
-					id="section1"
-				/> */}
 		</div>
 	);
 }
