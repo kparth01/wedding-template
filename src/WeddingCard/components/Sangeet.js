@@ -6,11 +6,14 @@ class Sangeet extends Component {
 	render() {
 		return (
 			<div id="sangeet" className="section-content">
-				<h1>Sangeet Ceremony</h1>
+				<h1>Sangeet (Dandiya Ras) Ceremony</h1>
 				<p>
 					{" "}
-					It marks the first-event in the Wedding celebrations. A combination
-					dinner and dancing on Indian folk songs.{" "}
+					It marks the first-event in the Wedding celebrations and happens
+					before the actual marriage day. All the family and friends will gather
+					in this event and will dance in authentic Indian folk songs known as
+					"Garba Ras" to mark the beginning of the marraige rituals. The dance
+					will be followed by dinner before the event finishes. See you there!!!{" "}
 				</p>
 				<div className="row">
 					<div className="col">
