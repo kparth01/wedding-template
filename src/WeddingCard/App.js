@@ -10,7 +10,7 @@ import Copyright from "./components/Copyright";
 import Reception from "./components/Reception";
 import Sangeet from "./components/Sangeet";
 import Wedding from "./components/Wedding";
-import "./fonts/cavolini/CAVOLINI.TTF";
+import "./assets/fonts/cavolini/CAVOLINI.TTF";
 import NavBar from "./components/NavBar";
 
 function App() {

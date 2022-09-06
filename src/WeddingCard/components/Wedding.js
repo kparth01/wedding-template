@@ -8,13 +8,10 @@ class Wedding extends Component {
 			<div id="wedding" className="section-content" data-aos="zoom-in">
 				<h1>Wedding Bells</h1>
 				<p>
-					This is the main event in which the groom and bride tie the knot with
-					all the rituals. The groom comes to the brides home with all his
-					relatives and family typically known as "Baraat". The groom's family
-					will dance again at the door of the bride's house. The brides family
-					will welcome and greet the groom and his family. It a party time and
-					without you the celebrations will be incomplete. Do join us in the
-					Wedding and give your blessing to newly weds.
+					In this event the groom arrives to the bride's home with all his
+					friends &amp; family typically known as "Baraat". Groom and Bride will{" "}
+					<i>tie-the-knot</i> with all the rituals. Bless us with your presence
+					in the most joyfull day of our lives!!!
 				</p>
 				<div className="row">
 					<div className="col">

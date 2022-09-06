@@ -8,13 +8,9 @@ class Reception extends Component {
 			<div id="reception" className="section-content">
 				<h1>Reception</h1>
 				<p>
-					This will be the last event and happens after the actual marraige is
-					completed. The bride comes with the groom and in-laws to stay with
-					them hereafter. This function is for congratulating the newly weds in
-					their new journey together. The function is the last step in the
-					series of events and marks the end of wedding celebrations and
-					beginning of the new journey for the couple. We will waiting for you.
-					Please bless us with your presence. Thankyou!!! :)
+					This function is for congratulating the newly weds in their new
+					journey together. Please bless us with your presence as we begin the
+					new chapter of our life. We will be waiting for you!!! :)
 				</p>
 				<div className="row">
 					<div className="col">

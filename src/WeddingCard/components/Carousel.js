@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import image1 from "../images/Image1.jpeg";
-import image3 from "../images/Image3.jpg";
+import image1 from "../assets/images/Image1.jpeg";
+import image3 from "../assets/images/Image3.jpg";
 import "../App.css";
 
 class Carousel extends Component {

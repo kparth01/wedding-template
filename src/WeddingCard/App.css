@@ -67,7 +67,7 @@
 @font-face {
 	font-family: "Cavolini";
 	src: local("Cavolini"),
-	url("./fonts/cavolini/CAVOLINI.TTF") format("truetype");
+	url("./assets/fonts/cavolini/CAVOLINI.TTF") format("truetype");
 	font-weight: bold;
 }
 
