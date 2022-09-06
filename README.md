@@ -27,3 +27,7 @@ Hosted be accessed at [Netlify](https://clinquant-taffy-013015.netlify.app/)
 - Special effect of rose petals showers in-built.
 - Reusable components.
 - Support for bootstrap special symbols & characters. More details check [bootstrap-icons](https://icons.getbootstrap.com)
+
+# Demo
+
+![Alt Text](https://github.com/kparth01/wedding-template/blob/main/src/WeddingCard/assets/demo.gif)
