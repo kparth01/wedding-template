@@ -31,3 +31,5 @@ Hosted be accessed at [Netlify](https://clinquant-taffy-013015.netlify.app/)
 # Demo
 
 ![Alt Text](https://github.com/kparth01/wedding-template/blob/main/src/WeddingCard/assets/demo.gif)
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="100" />
