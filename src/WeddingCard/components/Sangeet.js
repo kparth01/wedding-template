@@ -7,13 +7,13 @@ class Sangeet extends Component {
 		return (
 			<div id="sangeet" className="section-content">
 				<h1>Sangeet Ceremony</h1>
-				<p>
-					{" "}
-					Join us to mark the first-event in the Wedding celebrations. There
-					will be dance performances on Indian folk songs known as "Garba Ras"
-					followed by dinner.{" "}
+				<p className="tag-style">Its the time to disco!!!</p>
+				<p className="lighter">
+					Join us in this pre-wedding event for to mark beginning of Wedding
+					celebrations. There will be dance performances on Indian folk songs
+					known as "Garba Ras" followed by dinner.{" "}
 				</p>
-				<div className="row">
+				<div className="row lighter">
 					<div className="col">
 						<When
 							day={"Saturday"}

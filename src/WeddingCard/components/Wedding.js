@@ -7,13 +7,19 @@ class Wedding extends Component {
 		return (
 			<div id="wedding" className="section-content" data-aos="zoom-in">
 				<h1>Wedding Bells</h1>
-				<p>
-					In this event the groom arrives to the bride's home with all his
-					friends &amp; family typically known as "Baraat". Groom and Bride will{" "}
-					<i>tie-the-knot</i> with all the rituals. Bless us with your presence
-					in the most joyfull day of our lives!!!
+				<p className="tag-style">
+					Le Jayenge Le Jayenge Dil Wale Dulhania le jayenge!!!!
 				</p>
-				<div className="row">
+				<p className="lighter">
+					In this event the Groom and his family travels to the bride's home.
+					This is commonly known as{" "}
+					<b>
+						<i>"Baraat".</i>
+					</b>
+					Groom and Bride will <i>tie-the-knot</i> with all the rituals. Bless
+					us with your presence in the most joyfull day of our lives!!!
+				</p>
+				<div className="row lighter">
 					<div className="col">
 						<When
 							day={"Monday"}

@@ -1,0 +1,61 @@
+{
+	"data": [
+		{
+			"heading": "Sangeet Ceremony",
+			"tagLine": "Its the time to disco!!!",
+			"description": "Join us in this pre-wedding event to mark the beginning of Wedding celebrations. There will be dance performances on Indian folk songs known as \"Garba Ras\" followed by dinner. LETS DANCE !!!",
+			"when": {
+				"day": "Saturday",
+				"date": "26th",
+				"month": "November",
+				"year": "2022",
+				"startTime": "7:00 PM",
+				"endTime": "11:00 PM"
+			},
+			"where": {
+				"addressLine1": "Mahajan Banquet, Opp Kanakia ",
+				"addressLine2": "Police Station, Baverly Park, ",
+				"addressLine3": "Mira Road(E), Thane (India).",
+				"location": "https://goo.gl/maps/wjLcyUxfzTy4jry9A"
+			}
+		},
+		{
+			"heading": "Wedding Bells",
+			"tagLine": "Le Jayenge Le Jayenge Dil Wale Dulhania le jayenge!!!!",
+			"description": "In this event the Groom with his family & friends travels to the bride's home in a \"Baraat\" for wedding. On this day the Groom and Bride will tie-the-knot with all the rituals & in presence of all elders. Bless us with your presence in the most joyful day of our lives!!!",
+			"when": {
+				"day": "Monday",
+				"date": "28th",
+				"month": "November",
+				"year": "2022",
+				"startTime": "10:00 AM",
+				"endTime": "6:00 PM"
+			},
+			"where": {
+				"addressLine1": "VIP Road, Near Gopuri Square,",
+				"addressLine2": "Nalwadi, Wardha (India) - 442001 ",
+				"addressLine3": "",
+				"location": "https://goo.gl/maps/ckfSjo9kHbLd3qug9"
+			}
+		},
+		{
+			"heading": "Reception",
+			"tagLine": "Lo Safar Shuru Ho Gaya Hum Safar Tu Hogaya!!!",
+			"description": "In this post-wedding event all the family & friends are invited for a nice evening to welcome the bride at her new home. All the invited guest meets & greets with new couple & congratulates them as they start a new journey together. Please bless us with your presence as we begin the new chapter of our life. We will be waiting for you!!! :)",
+			"when": {
+				"day": "Wednesday",
+				"date": "30th",
+				"month": "November",
+				"year": "2022",
+				"startTime": "7:00 PM",
+				"endTime": "10:00 PM"
+			},
+			"where": {
+				"addressLine1": "Maxus Banquet Hall, 3rd Floor",
+				"addressLine2": "Behind Maxus Shopping Mall, ",
+				"addressLine3": "Bhayandar (W), Thane (India).",
+				"location": "https://goo.gl/maps/vZv9d15zjFCFrhh46"
+			}
+		}
+	]
+}

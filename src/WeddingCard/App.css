@@ -93,3 +93,11 @@
 		transform: translatex(-50%);
 	}
 }
+
+.lighter {
+	color: #808080;
+}
+
+.tag-style {
+	font-style: italic;
+}
