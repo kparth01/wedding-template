@@ -2,7 +2,6 @@ import "./App.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import React, { Component } from "react";
-import { useEffect } from "react";
 import Announcement from "./components/Annoucement";
 import Carousel from "./components/Carousel";
 import Contact from "./components/Contact";

@@ -1,7 +1,7 @@
 # Wedding Invitation Website
 
 Simple, elegant & well themed wedding invitation website.
-Hosted be accessed at [Netlify](https://clinquant-taffy-013015.netlify.app/)
+Hosted at [Netlify](https://clinquant-taffy-013015.netlify.app/)
 
 # Tech-Stack
 
