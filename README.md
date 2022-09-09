@@ -32,3 +32,5 @@ Hosted at [Netlify](https://clinquant-taffy-013015.netlify.app/)
 
 - Update `data.json` for different Events and Venue details. No need code changes.
 - Images and fonts to be used can be found in `src/WeddingCard/assets`.
+
+7
